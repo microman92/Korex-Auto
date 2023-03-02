@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Manrope-Bold';
+    src        : url('../fonts/Manrope/Manrope-Bold.ttf');
+    font-style : normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Manrope-ExtraBold';
+    src        : url('../fonts/Manrope/Manrope-ExtraBold.ttf');
+    font-style : normal;
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: 'Montserrat-Black';
+    src        : url('../fonts/montserrat/Montserrat-Black.ttf');
+    font-style : normal;
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src        : url('../fonts/montserrat/Montserrat-Bold.ttf');
+    font-style : normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Montserrat-ExtraBold';
+    src        : url('../fonts/montserrat/Montserrat-ExtraBold.ttf');
+    font-style : normal;
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: 'Montserrat-Light';
+    src        : url('../fonts/montserrat/Montserrat-Light.ttf');
+    font-style : normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Montserrat-Medium';
+    src        : url('../fonts/montserrat/Montserrat-Medium.ttf');
+    font-style : normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src        : url('../fonts/montserrat/Montserrat-Regular.ttf');
+    font-style : normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Montserrat-SemiBold';
+    src        : url('../fonts/montserrat/Montserrat-SemiBold.ttf');
+    font-style : normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Roboto-Black';
+    src        : url('../fonts/roboto/Roboto-Black.ttf');
+    font-style : normal;
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'Rubik-Bold';
+    src        : url('../fonts/rubik/Rubik-Bold.ttf');
+    font-style : normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'SF-Pro-Display-Regular';
+    src        : url('../fonts/SF_Pro/SF-Pro-Display-Regular.otf');
+    font-style : normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'SF-Pro-Display-Bold';
+    src        : url('../fonts/SF_Pro/SF-Pro-Display-Bold.otf');
+    font-style : normal;
+    font-weight: 700;
+}
