@@ -19,5 +19,3 @@
 <img src="https://github.com/microman92/Korex-Auto/assets/90110834/afb78d50-265c-4812-a48b-ccbd76969e96" style="max-width: 100%;">
 </a>
 
-
-    ![Korex](https://github.com/microman92/Korex-Auto/assets/90110834/afb78d50-265c-4812-a48b-ccbd76969e96)
